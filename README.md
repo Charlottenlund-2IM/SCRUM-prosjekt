@@ -8,7 +8,7 @@ NTNUI har over 20 koier (hytter) med stor variasjon i standard og størrelse, so
 
 Dere har fått i oppdrag fra NTNUI å utvikle en nettside for koiene. Nettsiden skal inneholde informasjon om koiene, slik man kan se status for en koie (sengeplasser, fasiliteter, når den er booket/ledig og annen nyttig informasjon). På nettsiden skal det være mulig å booke en koie for en registrert bruker. Etter endt opphold må det gis en sluttrapport med status (info om ting som er ødelagt, status på ved, ting som ble gjenglemt).
 
-Eksempel på brukerhistorier
+### Eksempel på brukerhistorier
 
   
 | ID | Brukerhistorier |
@@ -30,8 +30,12 @@ Her er to videoer som forklarer hva SCRUM er og hvordan man jobber med SCRUM:
 * [Intro To Agile Scrum In Under 10 Minutes – What Is Scrum?](http://youtube.com/watch?v=XU0llRltyFM)
 * [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA&ab_channel=Uzility)
 
+Du kan lese mer inngående om Scrum her: [What is Scrum? (atlassian.com)](https://www.atlassian.com/agile/scrum)
+
 Jeg vil også anbefale at dere bruker KanBan for å fordele oppgaver og få oversikt status på oppgaver. Her er en video om KanBan:
 * [Intro To Kanban In Under 5 Minutes](https://www.youtube.com/watch?v=R8dYLbJiTUE)
+
+Du kan lese mer inngående om KanBan her: [What is kanban? (atlassian.com)](https://www.atlassian.com/agile/kanban)
 
 For å bruke KanBan trenger dere en oppslagstavle for å lage oversikt over alle oppgaver. Til dette kan dere bruke [Trello](https://trello.com/nb).
 
@@ -40,7 +44,7 @@ Gruppen skal levere en felles rapport ved slutten av prosjektet. Rapporten skal 
 * Hvem er kunden?
 * Hva har kunden bestilt?
 * Hvilke krav stiller kunden til nettsiden (brukerhistorier)? 
-* Produkt Backlog (se presentasjon for Scrum for retningslinjer) 
+* Produkt Backlog (se videoer om Scrum for retningslinjer) 
 * Sprint Backlog (brukerhistoriene dere har valgt ut til sprint 1 og sprint 2)
 * Brukerhistorier dere har implementert i sprint 1 og i sprint 2
 * Kort referat/erfaringer fra Daily Scrum (maks 2-3 setninger pr. pers. i gruppen)
@@ -58,7 +62,7 @@ I løpet av prosjektet vil dere ha 2 sprinter, og dermed to demoer.
 | Uke/Timer | Aktivitet | Frister |
 | --------  | --------- | ------- |
 | **Uke 16** |  |  |
-| Fredag 22. april | Intro scrum, fordele roller, inngå gruppekontrakt, velge verktøy som skal brukes, tilbakemelding på fremføring |  |
+| Fredag 22. april | Intro scrum, fordele roller, inngå gruppekontrakt, velge verktøy som skal brukes |  |
 | **Uke 17** |  |  |
 | Mandag 25. april | Oppstart prosjekt, utdeling av oppgave og starte med brukerhistorier og deretter product backlog og deretter finne ut hva som skal inngå i sprint 1 (Sprint planning meeting) | Levere gruppekontrakt (5%) - Frist: mandag 25. april 23:59 |
 | Fredag 29. april |  |  |

@@ -27,13 +27,13 @@ Gruppen skal i dette prosjektet bruke Scrum som utviklingsmetode. Gjennom prosje
 
 ## Bakgrunnsstoff
 Her er to videoer som forklarer hva SCRUM er og hvordan man jobber med SCRUM:
-* [Intro To Agile Scrum In Under 10 Minutes – What Is Scrum?](http://youtube.com/watch?v=XU0llRltyFM)
-* [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA&ab_channel=Uzility)
+* [Intro To Agile Scrum In Under 10 Minutes – What Is Scrum? (youtube.com)](http://youtube.com/watch?v=XU0llRltyFM)
+* [Introduction to Scrum - 7 Minutes (youtube.com)](https://www.youtube.com/watch?v=9TycLR0TqFA&ab_channel=Uzility)
 
 Du kan lese mer inngående om Scrum her: [What is Scrum? (atlassian.com)](https://www.atlassian.com/agile/scrum)
 
 Jeg vil også anbefale at dere bruker KanBan for å fordele oppgaver og få oversikt status på oppgaver. Her er en video om KanBan:
-* [Intro To Kanban In Under 5 Minutes](https://www.youtube.com/watch?v=R8dYLbJiTUE)
+* [Intro To Kanban In Under 5 Minutes (youtube.com)](https://www.youtube.com/watch?v=R8dYLbJiTUE)
 
 Du kan lese mer inngående om KanBan her: [What is kanban? (atlassian.com)](https://www.atlassian.com/agile/kanban)
 

@@ -25,6 +25,8 @@ Dere har fått i oppdrag fra NTNUI å utvikle en nettside for koiene. Nettsiden 
 ## Gruppestruktur
 Gruppen skal i dette prosjektet bruke Scrum som utviklingsmetode. Gjennom prosjektet skal dere gjennomføre 2 sprinter hvor dere skal bruke Sprint Planning Meeting og Sprint Review Meeting. I tillegg skal gruppen gjennomføre daily scrum i skoletimene på mandag og torsdag.  
 
+Gruppekontrakt skal leveres på Canvas. [Mal for gruppekontrakt (Google Docs)](https://docs.google.com/document/d/1OhyK18lYyqcoU0AXf1GAwsoMkbbCG_UTjMoIXt_bx84/edit?usp=sharing).
+
 ## Bakgrunnsstoff
 Her er to videoer som forklarer hva SCRUM er og hvordan man jobber med SCRUM:
 * [Intro To Agile Scrum In Under 10 Minutes – What Is Scrum? (youtube.com)](http://youtube.com/watch?v=XU0llRltyFM)
@@ -71,15 +73,15 @@ I løpet av prosjektet vil dere ha 2 sprinter, og dermed to demoer.
 | Fredag 6. mai | |  |
 | **Uke 19** |  |  |
 | Mandag 9. mai |  En og en gruppe har demo. Sprint 1 retrospective etter demo, deretter starte med Sprint 2 planning meeting | Sprint 1 ferdig: Kode på github (10%), Demo (10%) |
-| Fredag 13. mai |  |  |
+| Fredag 13. mai | NKUL(?) |  |
 | **Uke 20** |  |  |
 | Mandag 16. mai | **FRI** |  |
-| Fredag 20. mai  | Ferdigstille sprint 2 / begynne å jobbe med grupperapport |  |
+| Fredag 20. mai  | |  |
 | **Uke 21** |  |  |
-| Mandag 23. mai | Demo av sprint 2 | Sprint 2 ferdig: Kode på github (10%), Demo (10%) |
+| Mandag 23. mai | Ferdigstille sprint 2 / begynne å jobbe med grupperapport |  |
 | Fredag 27. mai | **FRI** |  |
 | **Uke 22** |  |  |  
-| Mandag 30. mai | Jobbe med grupperapport | Grupperapport (55%) |  
-| Fredag 3. juni |  | Endelig innlevering av Grupperapport og fullstendig kode på Github fredag 3. juni kl 23:59 |  
+| Mandag 30. mai | Demo av sprint 2 | Sprint 2 ferdig: Kode på github (10%), Demo (10%) |
+| Fredag 3. juni | Jobbe med grupperapport | Endelig innlevering av Grupperapport (55%) og fullstendig kode (10%) på Github fredag 3. juni kl 23:59 |  
 | **Uke 23** |  |  |
 | Mandag 6. juni | **FRI** |  |

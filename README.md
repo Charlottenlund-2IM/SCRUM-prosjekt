@@ -28,6 +28,8 @@ Gruppen skal i dette prosjektet bruke Scrum som utviklingsmetode. Gjennom prosje
 Gruppekontrakt skal leveres på Canvas. [Mal for gruppekontrakt (Google Docs)](https://docs.google.com/document/d/1OhyK18lYyqcoU0AXf1GAwsoMkbbCG_UTjMoIXt_bx84/edit?usp=sharing).
 
 ## Bakgrunnsstoff
+[Presentasjon av SCRUM (Google Docs)](https://docs.google.com/presentation/d/1vy1FcU8VgE-jqBYeBhJKVNLygzwU0MOofskFv7frVOI/edit?usp=sharing)
+
 Her er to videoer som forklarer hva SCRUM er og hvordan man jobber med SCRUM:
 * [Intro To Agile Scrum In Under 10 Minutes – What Is Scrum? (youtube.com)](http://youtube.com/watch?v=XU0llRltyFM)
 * [Introduction to Scrum - 7 Minutes (youtube.com)](https://www.youtube.com/watch?v=9TycLR0TqFA&ab_channel=Uzility)

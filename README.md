@@ -87,3 +87,6 @@ I løpet av prosjektet vil dere ha 2 sprinter, og dermed to demoer.
 | Fredag 3. juni | Jobbe med grupperapport | Endelig innlevering av Grupperapport (55%) og fullstendig kode (10%) på Github fredag 3. juni kl 23:59 |  
 | **Uke 23** |  |  |
 | Mandag 6. juni | **FRI** |  |
+
+## Vurderingskriterier
+![Vurderingskriterier](https://cdn.discordapp.com/attachments/880777282980020274/966987008885006396/unknown.png)

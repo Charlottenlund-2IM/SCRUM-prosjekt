@@ -68,15 +68,15 @@ I løpet av prosjektet vil dere ha 2 sprinter, og dermed to demoer.
 | Fredag 29. april |  |  |
 | **Uke 18** |  |  |
 | Mandag 2. mai |  |  |
-| Fredag 6. mai | En og en gruppe har demo. Sprint 1 retrospective etter demo, deretter starte med Sprint 2 planning meeting | Sprint 1 ferdig: Kode på github (10%), Demo (10%) |
+| Fredag 6. mai | |  |
 | **Uke 19** |  |  |
-| Mandag 9. mai |  |  |
-| Fredag 13. mai | Ferdigstille sprint 2 / begynne å jobbe med grupperapport |  |
+| Mandag 9. mai |  En og en gruppe har demo. Sprint 1 retrospective etter demo, deretter starte med Sprint 2 planning meeting | Sprint 1 ferdig: Kode på github (10%), Demo (10%) |
+| Fredag 13. mai |  |  |
 | **Uke 20** |  |  |
 | Mandag 16. mai | **FRI** |  |
-| Fredag 20. mai  | Demo av sprint 2 | Sprint 2 ferdig: Kode på github (10%), Demo (10%) |
+| Fredag 20. mai  | Ferdigstille sprint 2 / begynne å jobbe med grupperapport |  |
 | **Uke 21** |  |  |
-| Mandag 23. mai |  |  |
+| Mandag 23. mai | Demo av sprint 2 | Sprint 2 ferdig: Kode på github (10%), Demo (10%) |
 | Fredag 27. mai | **FRI** |  |
 | **Uke 22** |  |  |  
 | Mandag 30. mai | Jobbe med grupperapport | Grupperapport (55%) |  
